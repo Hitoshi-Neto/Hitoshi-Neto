@@ -10,6 +10,7 @@
 💡 Desenvolvedor entusiasta, sempre aprendendo e buscando novas tecnologias.  
 📚 Atualmente aprimorando minhas habilidades em **JavaScript, HTML e CSS**.  
 🎯 Meu foco é criar soluções eficientes e elegantes para a web!
+
 🌱 Sou **iniciante**
 
 ---
