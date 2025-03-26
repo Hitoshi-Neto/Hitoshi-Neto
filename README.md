@@ -1,23 +1,53 @@
-## Bem-vindo(a) ao perfil do Hitoshi 😁
+<h1 align="center">Olá! Eu sou o Hitoshi Neto 😃</h1>
 
- <div>
-   <a href="https://github.com/Hitoshi-Neto">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hitoshi-Neto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitoshi-Neto&layout=compact&langs_count=6&theme=tokyonight"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C7FF&size=35&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Web;Apaixonado+por+tecnologia!&pause=1000" />
+</p>
+
+---
+
+### 🚀 **Sobre mim**
+💡 Desenvolvedor entusiasta, sempre aprendendo e buscando novas tecnologias.  
+📚 Atualmente aprimorando minhas habilidades em **JavaScript, HTML e CSS**.  
+🎯 Meu foco é criar soluções eficientes e elegantes para a web!  
+
+---
+
+### 📊 **Minhas Estatísticas**
+<div align="center">
+  <a href="https://github.com/Hitoshi-Neto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hitoshi-Neto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hitoshi-Neto&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitoshi-Neto&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+---
+
+### 🛠 **Tecnologias que uso**
+<div style="display: flex;">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- 
-<br>
- 
-### Minha rede social 😁
- 
-<div> 
- <a href="https://www.instagram.com/hitoshi_zxi/" target="_blank" rel="noopener noreferrer">
+
+---
+
+### 🌎 **Onde me encontrar**
+<div>
+  <a href="https://www.instagram.com/hitoshi_zxi/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
+
+---
+
+### 🎯 **Status do Perfil**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hitoshi-Neto&label=Visualizações&color=blue&style=flat" alt="contador de visualizações">
+</p>
