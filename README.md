@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Hitoshi Neto 😃</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C7FF&size=35&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Web;Apaixonado+por+tecnologia!&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C7FF&size=35&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+WeB!;Aprendendo+cada+vez+mais!&pause=1000" />
 </p>
 
 ---
